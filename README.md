@@ -5,6 +5,7 @@ This Python script automates the process of sending emails related to return aut
 # Prerequisites
 
 Before running this script, ensure you have the following installed:
+
   • Python 3.x
   • Pandas
   • smtplib (included in Python's standard library)
@@ -12,6 +13,7 @@ Before running this script, ensure you have the following installed:
   • google.colab (if running in Google Colab) (can use in another IDE too)
 
 # Libraries Used
+
 • pandas: For reading and manipulating CSV files.
 • time, datetime: For tracking and printing timestamps.
 • email: For constructing email messages and handling attachments.
