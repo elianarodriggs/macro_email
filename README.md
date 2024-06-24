@@ -7,9 +7,13 @@ This Python script automates the process of sending emails related to return aut
 Before running this script, ensure you have the following installed:
 
   • Python 3.x
+  
   • Pandas
+  
   • smtplib (included in Python's standard library)
+  
   • email (included in Python's standard library)
+  
   • google.colab (if running in Google Colab) (can use in another IDE too)
 
 # Libraries Used
