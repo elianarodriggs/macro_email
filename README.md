@@ -19,9 +19,13 @@ Before running this script, ensure you have the following installed:
 # Libraries Used
 
 • pandas: For reading and manipulating CSV files.
+
 • time, datetime: For tracking and printing timestamps.
+
 • email: For constructing email messages and handling attachments.
+
 • smtplib: For sending emails via SMTP.
+
 • google.colab: For mounting Google Drive in Google Colab.
 
 # How to Use
