@@ -1,4 +1,4 @@
-## Email Automation for Return Process
+# Email Automation for Return Process
 
 This Python script automates the process of sending emails related to return authorizations. It reads data from a CSV file, composes the emails, and sends them using the Gmail SMTP server.
 
